@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DAY_FIVE/DAY_FIVE.iml" filepath="$PROJECT_DIR$/DAY_FIVE/DAY_FIVE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAY_FOUR/DAY_FOUR.iml" filepath="$PROJECT_DIR$/DAY_FOUR/DAY_FOUR.iml" />
       <module fileurl="file://$PROJECT_DIR$/DAY_ONE/DAY_ONE.iml" filepath="$PROJECT_DIR$/DAY_ONE/DAY_ONE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAY_SIX/DAY_SIX.iml" filepath="$PROJECT_DIR$/DAY_SIX/DAY_SIX.iml" />
       <module fileurl="file://$PROJECT_DIR$/DAY_THREE/DAY_THREE.iml" filepath="$PROJECT_DIR$/DAY_THREE/DAY_THREE.iml" />
       <module fileurl="file://$PROJECT_DIR$/DAY_TWO/DAY_TWO.iml" filepath="$PROJECT_DIR$/DAY_TWO/DAY_TWO.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/TNSIF.iml" filepath="$PROJECT_DIR$/.idea/TNSIF.iml" />
